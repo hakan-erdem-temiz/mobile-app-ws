@@ -1,0 +1,77 @@
+2019-07-05 16:10:30,661 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:14:31,232 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:18:14,364 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-05 16:18:16,300 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.het.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /Users/hakantemiz/Documents/workspace/mobile-app-ws/pom.xml.
+2019-07-05 16:18:17,737 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mobile-app-ws/src/main/java
+2019-07-05 16:18:17,739 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mobile-app-ws/src/main/resources
+2019-07-05 16:18:17,744 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mobile-app-ws/src/main/resources
+2019-07-05 16:18:17,754 [Worker-9: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mobile-app-ws/src/test/java
+2019-07-05 16:18:18,352 [Worker-9: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-07-05 16:18:19,237 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:18:19,243 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 16:18:19,264 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:18:19,268 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:18:19,269 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:19:27,097 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:21:22,659 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:25:27,117 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:27:52,264 [Worker-10: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.het.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /Users/hakantemiz/Documents/workspace/mobile-app-ws/pom.xml.
+2019-07-05 16:27:54,139 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:27:54,145 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 16:27:54,169 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:27:54,173 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:27:54,173 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:27:56,380 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:27:56,390 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 16:27:56,392 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:27:56,395 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:27:56,395 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:28:33,307 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 16:28:46,072 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:28:46,076 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 16:28:46,095 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:28:46,099 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:28:46,099 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:33:04,383 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:04,392 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:04,393 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:04,398 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:04,398 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:33:53,255 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:53,256 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:53,256 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:53,260 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:53,261 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:33:54,282 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:54,283 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:54,284 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:54,289 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:54,290 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:33:55,316 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:55,317 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:55,317 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 16:33:55,320 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 16:33:55,320 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 16:54:17,464 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-05 17:03:44,740 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.het.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /Users/hakantemiz/Documents/workspace/mobile-app-ws/pom.xml.
+2019-07-05 17:03:45,943 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:45,948 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 17:03:45,973 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 17:03:45,977 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:45,978 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 17:03:48,696 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:48,701 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-05 17:03:48,704 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 17:03:48,707 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:48,707 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-05 17:03:56,850 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.het.app.ws:mobile-app-ws:0.0.1-SNAPSHOT @ /Users/hakantemiz/Documents/workspace/mobile-app-ws/pom.xml.
+2019-07-05 17:03:57,564 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:57,568 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 17:03:57,569 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-05 17:03:57,572 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-05 17:03:57,573 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
+2019-07-06 23:11:56,091 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 23:11:56,093 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 23:11:56,093 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 23:11:56,096 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-06 23:11:56,096 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/hakantemiz/Documents/workspace/mobile-app-ws/src/test/resources
