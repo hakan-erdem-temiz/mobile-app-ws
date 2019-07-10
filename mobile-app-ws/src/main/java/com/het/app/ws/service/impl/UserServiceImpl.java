@@ -47,14 +47,15 @@ public class UserServiceImpl implements UserService {
 		BeanUtils.copyProperties(storedUserDetails, returnValue);
 		return returnValue;
 	}
-	
+
 	@Override
 	public UserDto getUser(String email) {
 
 		UserEntity userEntity = userRepository.findByEmail(email);
 
-		if(userEntity == null) throw new UsernameNotFoundException(email);
-		
+		if (userEntity == null)
+			throw new UsernameNotFoundException(email);
+
 		UserDto returnValue = new UserDto();
 		BeanUtils.copyProperties(userEntity, returnValue);
 
@@ -64,19 +65,24 @@ public class UserServiceImpl implements UserService {
 	@Override
 	public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
 		UserEntity userEntity = userRepository.findByEmail(email);
+
+		if (userEntity == null)
+			throw new UsernameNotFoundException(email);
+
+		return new User(userEntity.getEmail(), userEntity.getEncryptedPassword(), new ArrayList<>());
+	}
+
+	@Override
+	public UserDto getUserByUserId(String userId) {
+		UserDto returnedValue = new UserDto();
+		UserEntity userEntity = userRepository.findByUserId(userId);
 		
-		if(userEntity == null) throw new UsernameNotFoundException(email);
+		if (userEntity == null)
+			throw new UsernameNotFoundException(userId);
+
+		BeanUtils.copyProperties(userEntity, returnedValue);
 		
-		return new User(userEntity.getEmail(), userEntity.getEncryptedPassword(),new ArrayList<>());
+		return returnedValue;
 	}
 
 }
-
-
-
-
-
-
-
-
-
