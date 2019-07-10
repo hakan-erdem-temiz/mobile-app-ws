@@ -24,6 +24,10 @@ public class UserController {
 	
 	@GetMapping
 	public String getUser() {
+		
+		//UserDto userDto = new UserDto();
+		// BeanUtils.copyProperties(userService, userDto);
+		
 		return "get user was called, hi het!";
 	}
 

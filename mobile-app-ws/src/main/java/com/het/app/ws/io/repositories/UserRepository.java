@@ -1,5 +1,5 @@
 
-package com.het.app.ws;
+package com.het.app.ws.io.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
